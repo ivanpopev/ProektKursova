@@ -1,0 +1,9 @@
+C:\Users\Popcho\source\repos\ProektKursova\ProektKursova\bin\Debug\ProektKursova.exe.config
+C:\Users\Popcho\source\repos\ProektKursova\ProektKursova\bin\Debug\ProektKursova.exe
+C:\Users\Popcho\source\repos\ProektKursova\ProektKursova\bin\Debug\ProektKursova.pdb
+C:\Users\Popcho\source\repos\ProektKursova\ProektKursova\obj\Debug\ProektKursova.csprojAssemblyReference.cache
+C:\Users\Popcho\source\repos\ProektKursova\ProektKursova\obj\Debug\ProektKursova.Properties.Resources.resources
+C:\Users\Popcho\source\repos\ProektKursova\ProektKursova\obj\Debug\ProektKursova.csproj.GenerateResource.cache
+C:\Users\Popcho\source\repos\ProektKursova\ProektKursova\obj\Debug\ProektKursova.csproj.CoreCompileInputs.cache
+C:\Users\Popcho\source\repos\ProektKursova\ProektKursova\obj\Debug\ProektKursova.exe
+C:\Users\Popcho\source\repos\ProektKursova\ProektKursova\obj\Debug\ProektKursova.pdb
